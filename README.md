@@ -1,4 +1,6 @@
-# Small-Applications
+# small-applications
 Small exercises in computer programming.
 
-Last updated 2023-11-21.
+**Contact:** https://www.morrisseau.ca/
+  
+Last updated 2023-11-22.
